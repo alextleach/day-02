@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+div {
+  background: red;
+}
+
+h1 {
+  background: orange;
+  margin: 0;
+  border: 20px solid yellow;
+  padding: 20px;
+  display: block;
+
+}
+
+h2 {
+  background: green;
+  margin: 40px 40px 80px 160px;
+  border: 20px solid blue;
+  padding: 20px;
+  display: block;
+}
+
+h3 {
+  background: indigo;
+  margin: 0;
+  border: 20px solid violet;
+  padding: 20px;
+  display: block;
+}
